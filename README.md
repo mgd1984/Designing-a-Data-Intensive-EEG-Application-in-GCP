@@ -1,4 +1,4 @@
-### Designing-a-Data-Intensive-EEG-Application-in-GCP
+# Designing-a-Data-Intensive-EEG-Application-in-GCP
 
 Capstone project for 3252 - Big Data Tools class at the University of Toronto SCS - Fall 2017. The report was written to demonstrate familiarity with popular big data tools (i.e. Spark, Hadoop, MQTT, etc.) and how they could be used to create a data intensive EEG (brain wave) application using the Google Cloud Platform (GCP)
 
