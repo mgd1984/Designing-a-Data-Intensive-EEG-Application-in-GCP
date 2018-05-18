@@ -7,11 +7,11 @@ See attached [PDF](https://github.com/mgd1984/Designing-a-Data-Intensive-EEG-App
 ### Application Architecture 
 
 ### Using MusePython to Send EEG Data to GCP  
-The MusePython.py library [MusePython.py](https://github.com/mgd1984/Designing-a-Data-Intensive-EEG-Application-in-GCP/blob/master/MusePython.py) provides a way to send Muse EEG data to the cloud over UDP.
+The [MusePython.py](https://github.com/mgd1984/Designing-a-Data-Intensive-EEG-Application-in-GCP/blob/master/MusePython.py) library provides a way to send Muse EEG data to the cloud over UDP.
 
 ### Use EEGrunt to Analyze EEG Data in the Cloud  
 
-Compatible with the Muse headset, EEGrunt is a collection of EEG analysis tools, written in Python. 
+Compatible with the Muse headset, [EEGrunt](https://github.com/curiositry/EEGrunt) is a collection of EEG analysis tools, written in Python. Used to run analysis on streaming EEG data. 
 
 ###
 
