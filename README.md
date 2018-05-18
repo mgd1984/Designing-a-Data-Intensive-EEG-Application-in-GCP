@@ -9,6 +9,6 @@ See attached [PDF](https://github.com/mgd1984/Designing-a-Data-Intensive-EEG-App
 ### Data Flow 
 
 ### Connect Muse to Cloud 
-Using the MusePython server file [MusePython.py]()
+Using the MusePython server file [MusePython.py](https://github.com/mgd1984/Designing-a-Data-Intensive-EEG-Application-in-GCP/blob/master/MusePython.py)
 
 
